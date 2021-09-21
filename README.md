@@ -1,2 +1,4 @@
 # CTI110
-CTI110 Repository
+Created for P1Lab2
+Smith
+9/21/21
